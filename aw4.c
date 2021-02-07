@@ -15,5 +15,5 @@ else if(per>=60 && per<70)
 printf("\ngrade D");
 else if(per>=40 && per<60)
 printf("\ngrade E");
-else if(per<40)
+else (per<40)
 printf("\ngrade F"); }
